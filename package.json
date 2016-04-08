@@ -1,6 +1,6 @@
 {
   "name": "react-native-statusbar-banner",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A notification banner that shows up over the status bar. Highly configurable.",
   "main": "react-native-statusbar-banner.js",
   "files": [

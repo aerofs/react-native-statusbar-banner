@@ -5,14 +5,18 @@
 'use strict';
 
 var React = require('react-native');
-var RNAUNative = React.NativeModules.ReactNativeAutoUpdater;
+var RNSBNative = React.NativeModules.StatusBarNotificationBanner;
 
 type Props = {
   isVisible: boolean;
 }
 
 module.exports = {
-  jsCodeVersion: function() {
-  	return RNAUNative.jsCodeVersion;
+  show: function(message, color) {
+  	RNSBNative.showNotificationWithMessage(message, color);
+  },
+
+  hide: function() {
+  	RNSBNative.hideNotificationBanner();
   }
 };

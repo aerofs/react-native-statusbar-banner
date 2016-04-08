@@ -4,7 +4,15 @@
   "description": "A notification banner that shows up over the status bar. Highly configurable.",
   "main": "react-native-statusbar-banner.js",
   "files": [
-
+    "ios/ReactNativeStatusbarBanner.xcodeproj",
+    "react-native-statusbar-banner.js",
+    "README.md",
+    "ios/ReactNativeStatusbarBanner/StatusBarNotificationBanner.h",
+    "ios/ReactNativeStatusbarBanner/StatusBarNotificationBanner.m",
+    "ios/ReactNativeStatusbarBanner/UIColor+Hex.h",
+    "ios/ReactNativeStatusbarBanner/UIColor+Hex.m",
+    "ios/ReactNativeStatusbarBanner/StatusBarWindow.h",
+    "ios/ReactNativeStatusbarBanner/StatusBarWindow.m"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

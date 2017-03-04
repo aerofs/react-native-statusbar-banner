@@ -1,6 +1,7 @@
 # react-native-statusbar-banner
 
-[![License](https://img.shields.io/cocoapods/l/ReactNativeAutoUpdater.svg?style=flat)](http://cocoapods.org/pods/ReactNativeAutoUpdater)[![Platform](https://img.shields.io/cocoapods/p/ReactNativeAutoUpdater.svg?style=flat)](http://cocoapods.org/pods/ReactNativeAutoUpdater)
+[![License](https://img.shields.io/cocoapods/l/ReactNativeAutoUpdater.svg?style=flat)](https://spdx.org/licenses/MIT)
+[![Platform](https://img.shields.io/cocoapods/p/ReactNativeAutoUpdater.svg?style=flat)](http://cocoapods.org/pods/ReactNativeAutoUpdater)
 
 ## About
 
